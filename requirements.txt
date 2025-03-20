@@ -1,0 +1,4 @@
+selenium
+numpy
+webdriver-manager
+pandas
