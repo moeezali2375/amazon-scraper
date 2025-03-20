@@ -5,5 +5,5 @@ POST {{url}}/scrape_amazon
 Content-Type: application/json
 
 {
-	"asins": ["B07QGFD8G6","B079JLY5M5", "B07NQQKBWV"]
+	"asins": ["B07QGFD8G6","B0CJ38Y7R4"]
 }
